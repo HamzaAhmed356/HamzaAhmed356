@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamzaAhmed_356&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=HamzaAhmed356&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -17,11 +17,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAhmed356&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaAhmed356&theme=tokyo-night" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,git,github,vscode" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1" />
-</p>
+
