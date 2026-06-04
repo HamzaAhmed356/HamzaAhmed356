@@ -14,12 +14,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmed356&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAhmed356&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmed356&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HamzaAhmed356&theme=tokyonight" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaAhmed356&theme=tokyo-night" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,git,github,vscode" />
 </p>
 
