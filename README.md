@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=HamzaAhmed356&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmed356&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAhmed356&theme=tokyonight" />
