@@ -14,7 +14,6 @@
 
 - 🎓 Fresh Graduate
 - 💻 Junior MERN Stack Developer
-- 🌱 Currently learning Advanced Backend Development & AI Integration
 - 🔭 Working on Full Stack Web Applications
 - ⚡ Interested in Web Development, AI, and Open Source
 
