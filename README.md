@@ -8,16 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+Developer;Building+Full+Stack+Applications" />
 </p>
 
----
-
-##  About Me
-
-- 🎓 Fresh Graduate
-- 💻 Junior MERN Stack Developer
-- 🔭 Working on Full Stack Web Applications
-- ⚡ Interested in Web Development, AI, and Open Source
-
----
 
 ## Tech Stack
 
